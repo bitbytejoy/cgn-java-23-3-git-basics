@@ -2,6 +2,6 @@ package de.neuefische;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello blabla!");
+        System.out.println("Hello from GitHub!");
     }
 }
